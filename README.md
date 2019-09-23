@@ -84,5 +84,5 @@ The solution should be built with one of the build automation tool (Maven/Gradle
 Add activity logging through Kafka. All requests should be sent to Apache Kafka. Records have to contain information about the incoming request and the outgoing response.
 
 ## Submission
-Zip archive with repository. The archive shouldn't contain any binaries except mvn/gradle wrappers.
+Zip archive with repository to hr@kazanexpress.ru with subject `test-java-backend`. The archive shouldn't contain any binaries except mvn/gradle wrappers.
 ## Good luck!
