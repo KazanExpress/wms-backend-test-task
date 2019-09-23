@@ -43,7 +43,7 @@ Response format:
 
 ### Product-service
 
-`GET /api/v1/users/{{id}}` - getting product info for the product with `id`
+`GET /api/v1/products/{{id}}` - getting product info for the product with `id`
 
 Response format:
 ```
