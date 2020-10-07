@@ -1,4 +1,4 @@
-# KazanExpres test for Java/Kotlin backend developer
+# KazanExpress test for Java/Kotlin backend developer
 Here lies the description of the test task for Java/Kotlin backend position applicants.
 ## Task goal
 There is a microservice architecture which contains 3 microservices. Each service has external REST endpoints to support several types of clients (web, android, ios). To display the page with orders for a certain customers the information should be obtained from all three microservices: customer-service to display name of the customer, order-service to display all orders, product-service to display product information in orders. In this case, requests can be made asynchronously:
